@@ -145,4 +145,4 @@ Column name constants and the list of required/computed columns are defined in `
 
 ## License
 
-This project is developed for the University of Vocational Technology energy audit initiative.
+This project is developed for the University of Vocational Technology energy audit initiative. By S.M.K.P. Bandara
